@@ -16,15 +16,15 @@ docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab
 
 #homeassistant
 ghcr.io/home-assistant/qemux86-64-homeassistant:release
-ghcr.io/home-assistant/amd64-hassio-cli:release
-ghcr.io/home-assistant/amd64-hassio-dns:release
-ghcr.io/home-assistant/amd64-hassio-multicast:release
-homeassistant/amd64-addon-configurator:release
-ghcr.io/home-assistant/amd64-hassio-audio:release
-ghcr.io/home-assistant/amd64-hassio-observer:release
+#ghcr.io/home-assistant/amd64-hassio-cli:release
+#ghcr.io/home-assistant/amd64-hassio-dns:release
+#ghcr.io/home-assistant/amd64-hassio-multicast:release
+#homeassistant/amd64-addon-configurator:release
+#ghcr.io/home-assistant/amd64-hassio-audio:release
+#ghcr.io/home-assistant/amd64-hassio-observer:release
 
-ghcr.io/esphome/esphome-hassio:release
-ghcr.io/home-assistant/amd64-hassio-supervisor:release
+#ghcr.io/esphome/esphome-hassio:release
+#ghcr.io/home-assistant/amd64-hassio-supervisor:release
 
 
 
