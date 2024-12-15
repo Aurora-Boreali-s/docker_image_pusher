@@ -10,7 +10,7 @@
 
 
 #navidrome
-deluan/navidrome:latest
+docker.io/deluan/navidrome:latest
 
 
 #onlyoffice/documentserver
